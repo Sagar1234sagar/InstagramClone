@@ -1,0 +1,266 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 100vw;
+    height: 150vh;
+    background: black;
+    display: flex;
+}
+.first{
+    width: 20vw;
+    height: 150vh;
+    padding-top: 15px;
+    padding-left: 15px; 
+    display: flex;
+    flex-direction: column;
+    
+}
+.first p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:15px; 
+}
+.home{
+    display: inline-block;
+    padding: 15px;
+}
+.home img{
+    width: 25px;
+    height: 25px;
+}
+.home .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.search{
+    display: inline-block;
+     padding: 15px;
+}
+.search img{
+    width: 25px;
+    height: 25px;
+}
+.search .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.explore{
+    display: inline-block;
+     padding: 15px;
+}
+.explore img{
+    width: 25px;
+    height: 25px;
+}
+ .explore .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.reels {
+    display: inline-block;
+     padding: 15px;
+}
+.reels img{
+    width: 25px;
+    height: 25px;
+}
+ .reels .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.messages{
+    display: inline-block;
+     padding: 15px;
+}
+.messages img{
+    width: 25px;
+    height: 25px;
+}
+ .messages .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.notifications{
+    display: inline-block;
+     padding: 15px;
+}
+.notifications img{
+    width: 25px;
+    height: 25px;
+}
+ .notifications .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.create{
+    display: inline-block;
+     padding: 15px;
+}
+.create img{
+    width: 25px;
+    height: 25px;
+}
+ .create .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.profile{
+    display: inline-block;
+     padding: 15px;
+}
+.profile img{
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+}
+ .profile .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.more{
+    display: inline-block;
+     padding-top: 150px;
+    padding-left: 15px;
+}
+.more img{
+    width: 25px;
+    height: 25px;
+}
+ .more .text{
+    color: white;
+    margin-top: -25px;
+    margin-left: 54px;
+}
+.second{
+    background-color:#000;
+    float: left;
+    width: 40vw;
+    height: 150vh;
+}
+.stories{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+.stories img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-style: groove;
+    padding: 3px;
+    color: #f78888;
+}
+.post{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 25px;
+    margin-left: 52px;
+}
+.post h4{
+    justify-content: space-between;
+    color: aliceblue;
+}
+.post i{
+    justify-content: space-between;
+    color: aliceblue;
+}
+
+.pi{
+    margin-top: 30px;
+    margin-left: -500px;
+    width:450px ;
+    height: 350px;
+    border: 20px solid pink;
+}
+.ms{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+.comment{
+    margin-left: 103px;
+    color: aliceblue;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.comment h3{
+    font-size: 15px;
+    margin-top: 5px;
+}
+.comment h5{
+    color:grey;
+    font-size:12px ;
+}
+.comment img{
+    margin-top: -6px;
+    height: 40px;
+    width: 40px;
+   border-radius: 10px;
+    
+}
+.notification{
+    background-color: #000;
+    float: left;
+    width: 20%;
+    height: 100vh;
+    margin-left: 137px;
+}
+.notification .pp{    
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 25px;
+    
+}
+.notification h4{
+    color: white;
+    display: flex;
+    margin-left:55px ;
+    margin-top: -50px;
+}
+.notification h5{
+    color: grey;
+    display: flex;
+    margin-left:65px ;
+    
+}
+.notification h6{
+    color: rgb(55, 180, 229);
+    font-size: 15px;
+    display: flex;
+    margin-left:300px ;
+    margin-top: -18px;
+    
+}
+.suggest{
+    margin-top: 25px;
+    
+}
+.suggest p{
+    color: gray;
+}
+.suggest p b{
+    color: aliceblue;
+}
+.content h6{
+    text-align: center;
+    color: aliceblue;
+}
+.about{
+    margin-top: 80px;
+    color: gray;
+}
